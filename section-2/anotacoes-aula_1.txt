@@ -1,0 +1,7 @@
+@ Giro pela linguagem
+
+# operadores logicos
+
+&& (and)
+|| (or)
+! (not)
