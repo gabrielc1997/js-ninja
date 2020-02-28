@@ -4,3 +4,4 @@
 - blocos de código Javascript nomeados, e que podem ser invocados usando o operador ()
 - function nome () {}
 - return retorna o valor da funcao
+
