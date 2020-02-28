@@ -1,0 +1,15 @@
+@ Giro pela linguagem
+
+# operadores de igualdade / relacionais
+
+== igual a /// 1==1 true /// 2==1 false
+!= diferente de /// 1!=1 false /// 2!=1 true
+=== igual a, e do mesmo tipo ///
+!== diferente, mas do mesmo tipo ///
+
+# operadores relacionais
+
+> maior que 
+< menor que 
+>= maior ou igual a 
+< menor ou igual a

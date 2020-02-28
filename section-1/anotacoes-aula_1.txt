@@ -1,0 +1,10 @@
+@ Giro pela linguagem
+
+# tipos de dados
+-Number = numeros
+-String = sequencia de caracteres
+-Boolean = true ou false
+-null = valor nenhum
+-undefined = valor indefinido
+-object = {} propriedades e metodos
+-array = [] lista de valores

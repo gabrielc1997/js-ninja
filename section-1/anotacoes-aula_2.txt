@@ -1,0 +1,19 @@
+@ Giro pela linguagem
+
+# operadores aritmeticos
+
++adicao 
+-subtracao
+*multiplicacao
+/divisao
+
+
+# operadores aritmaticos abreviados
+
+
+++ adicionar mais 1
+-- subtrair menos 1
++= valor + valor
+-= valor - valor
+*= valor * valor
+/= valor / valor
