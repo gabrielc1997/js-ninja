@@ -1,0 +1,11 @@
+@ objetos
+
+#conjunto de propriedades
+var myvar = function(){
+    return 'variavel myvar'
+}
+
+var pessoa = { nome: 'gabriel', idade: 22, altura: 1.80, sexo: 'masculino' }
+pessoa.aniversario = function(){
+    pessoa.idade++
+}

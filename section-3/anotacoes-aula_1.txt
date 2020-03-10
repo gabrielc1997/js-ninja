@@ -10,4 +10,5 @@
 
 # objeto
 -conjunto de propriedades
-{propriedade: 'valor'}
+{ propriedade: 'valor' }
+var objeto = { propriedade: 'valor', propriedade2: '10' }
