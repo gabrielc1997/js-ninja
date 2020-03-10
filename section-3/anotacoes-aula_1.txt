@@ -1,0 +1,13 @@
+@ Tipos de dados e objetos
+# tipos primitivos
+-number
+-string 
+-boolean
+-null e undefined
+
+# tipos de objetos
+-todos os outros
+
+# objeto
+-conjunto de propriedades
+{propriedade: 'valor'}

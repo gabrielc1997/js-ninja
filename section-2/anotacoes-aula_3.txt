@@ -1,0 +1,21 @@
+@ estrutura lexica
+
+# case sensitive
+- javascript diferencia letras maiusculas, pode ter duas funcoes com o mesmo nome apenas trocando letras maiusculas por minusculas
+
+# comentario
+de linha - //
+de bloco - /* texto */
+
+# literais
+-numeros
+-valores
+-true 
+-array 
+
+# identificadores 
+_ ou $
+letras de a a z 
+letras de A a Z
+digitos de 0 a 9 
+

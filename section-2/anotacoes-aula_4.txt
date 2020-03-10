@@ -1,0 +1,27 @@
+@ instruçoes condicionais
+
+# IF
+var x = 3;
+var y = 7;
+if(x===3){
+    y = 3;
+}
+esse if diz que se o x for igual a 3 o y tambem será igual a 3
+
+# ELSE 
+var x = 3;
+var y = 7;
+if(x===4){
+    y = 3;
+} else{
+    y = 10
+}
+
+# ELSE IF
+var x = 3;
+var y = 7;
+if(x===4){
+    y = 3;
+} else if (x===3){
+    y = 9
+}
