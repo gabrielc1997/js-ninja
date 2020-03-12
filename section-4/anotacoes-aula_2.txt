@@ -1,0 +1,8 @@
+@ condicional ternario
+
+# condicao ? true:false
+
+1 === 2 ? true : false;
+
+var pessoa = { sexo: 'masculino' };
+var sexo = pessoa.sexo === 'feminino' ? 'a' : 'o';

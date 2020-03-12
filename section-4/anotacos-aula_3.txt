@@ -1,0 +1,10 @@
+@ escopo de variaveis
+
+# global
+fora de function
+# local
+dentro da function
+
+semrpe usar var para criaçao de variaveis, se nao usar o js vai interpretar que a variavel estara em um escopo global
+
+argumento de  funcao sao sempre locais

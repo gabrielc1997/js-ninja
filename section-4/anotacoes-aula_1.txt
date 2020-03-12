@@ -1,0 +1,17 @@
+@ truthy e falsy 
+
+if('valor qualquer') { teste = true; } else { teste = false; }
+ou
+!!teste
+
+# falsy
+-undefined - 0
+-null - -0
+-NaN  -"ou"
+
+# truthy
+
+-objeto (mesmo que vazio)
+-array (mesmo que vazio)
+-numeros > 0
+...
