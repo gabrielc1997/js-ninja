@@ -8,3 +8,12 @@
 -undefined = valor indefinido
 -object = {} propriedades e metodos
 -array = [] lista de valores
+
+
+
+
+
+
+
+
+fdsafasdfsaf
